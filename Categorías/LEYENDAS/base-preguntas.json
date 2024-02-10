@@ -1,0 +1,106 @@
+[
+    {
+        "categoria": "Leyendas",
+        "pregunta": "¿Donde nacio la leyenda de El Silbón?",
+        "respuesta": "Sabanas de Portuguesa",
+        "incorrecta1": "Delta Amacuro",
+        "incorrecta2": "Amazonas",
+        "incorrecta3": "San Juan de los Morros",
+        "imagen": "./aassets/IMG/1.jpg",
+        "objectFit": "cover"
+    },
+     
+    {
+        "categoria": "Leyendas",
+        "pregunta": "¿ Quien es la Sayona?",
+        "respuesta": "Mujer que castiga a los hombres infieles ",
+        "incorrecta1": "Mujer que llora por sus hijos",
+        "incorrecta2": "Mujer que mata hombres",
+        "incorrecta3": "La gritona",
+        "imagen": "./aassets/IMG/2.jpg",
+        "objectFit": "cover"
+    },
+    
+    {
+        "categoria": "Leyendas",
+        "pregunta": "¿Quien era Jose Antonio Oquendo?",
+        "respuesta": "Cantante llanero",
+        "incorrecta1": "Llanero solitario",
+        "incorrecta2": "El Guitarrero",
+        "incorrecta3": "...",
+        "imagen": "./aassets/IMG/3.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Leyendas",
+        "pregunta": "¿Que pasa con quienes se atreven a reparar el Reloj Guigue?",
+        "respuesta": "Fallecen misteriosamente ",
+        "incorrecta1": "Sufren una maldicion ",
+        "incorrecta2": "El alma del General Gomez los persigue ",
+        "incorrecta3": "No vive en paz ",
+        "imagen": "./aassets/IMG/4.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Leyendas",
+        "pregunta": " ¿Donde esta ubicada la casa embrujada del Tachira?",
+        "respuesta": "  Barrio Sucre  ",
+        "incorrecta1": "  Las lomas   ",
+        "incorrecta2": "Tariba",
+        "incorrecta3": "Barrio Obrero",
+        "imagen": "./aassets/IMG/5.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Leyendas",
+        "pregunta": "¿Quienes crearon la leyendas?",
+        "respuesta": "Antiguos Griegos",
+        "incorrecta1": "Indigenas",
+        "incorrecta2": "Lolita Robles",
+        "incorrecta3": "Romulo Gallegos",
+        "imagen": "./aassets/IMG/6.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Leyendas",
+        "pregunta": "¿Que colegio del Estado Tachira tiene una leyenda de hace mas de 50 años?",
+        "respuesta": "U.E.F. Taller Escuela",
+        "incorrecta1": "Santa Mariana de Jesus",
+        "incorrecta2": "Cervantes",
+        "incorrecta3": " Cristo rey ",
+        "imagen": "./aassets/IMG/7.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Leyendas",
+        "pregunta": "¿Quien fue el escritor del libro Leyendas del Tachira?",
+        "respuesta": "Lolita Robles",
+        "incorrecta1": "Arturo Pietri ",
+        "incorrecta2": "Rafael Cardenas",
+        "incorrecta3": "Romulo Gallegos",
+        "imagen": "./aassets/IMG/8.jpg",
+        "objectFit": "cover"
+    },
+    
+    {
+        "categoria": "Leyendas",
+        "pregunta": "¿Donde realizo sus estudios Doña Lolita Robles de Mora?",
+        "respuesta": "Catolica del Tachira",
+        "incorrecta1": "Santiago Mariño",
+        "incorrecta2": "UNET ",
+        "incorrecta3": "ULA",
+        "imagen": "./aassets/IMG/9.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Leyendas",
+        "pregunta": "¿En que año se estreno el Libro Leyendas del Tachira?",
+        "respuesta": "2001",
+        "incorrecta1": "1998",
+        "incorrecta2": "2000",
+        "incorrecta3":"2002",
+        "imagen": "./aassets/IMG/10.jpg",
+        "objectFit": "cover"
+    }
+]

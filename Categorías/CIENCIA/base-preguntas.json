@@ -1,0 +1,103 @@
+[
+    {
+        "categoria": "Ciencia",
+        "pregunta": "¿Qué fenómeno natural ocurre en el Lago de Maracaibo y es considerado el mayor generador de rayos del mundo?",
+        "respuesta": "El Relámpago del Catatumbo",
+        "incorrecta1": "La Tormenta de Santa Rosa",
+        "incorrecta2": "El Rayo de Brama",
+        "incorrecta3": "El Trueno de Guanare",
+        "imagen": "img/Catatumbo.png",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Ciencia",
+        "pregunta": "¿Qué planta endémica de Venezuela es la más grande del mundo y puede alcanzar hasta 3 metros de altura y 40 kilos de peso?",
+        "respuesta": "La aralia",
+        "incorrecta1": "La orquídea",
+        "incorrecta2": "El frailejón",
+        "incorrecta3": "La flor de mayo",
+        "imagen": "img/aralia.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Ciencia",
+        "pregunta": "¿Qué animal venezolano es el único mamífero volador conocido y tiene una gran importancia ecológica por su papel como polinizador y dispersor de semillas?",
+        "respuesta": "El murciélago",
+        "incorrecta1": "El colibrí",
+        "incorrecta2": "El guácharo",
+        "incorrecta3": "El águila",
+        "imagen": "img/Mucialago.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Ciencia",
+        "pregunta": "¿Qué elemento químico fue descubierto por el físico venezolano Francisco Tamayo en 1940 y tiene el número atómico 43?",
+        "respuesta": "El tecnecio",
+        "incorrecta1": "El renio",
+        "incorrecta2": "El niobio",
+        "incorrecta3": "El rodio",
+        "imagen": "img/tenecio (2).jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Ciencia",
+        "pregunta": "¿Qué satélite artificial fue el primero en ser lanzado al espacio por Venezuela en 2008 con fines de telecomunicaciones y observación terrestre?",
+        "respuesta": "Simón Bolívar",
+        "incorrecta1": "Francisco de Miranda",
+        "incorrecta2": "Antonio José de Sucre",
+        "incorrecta3": "Ezequiel Zamora",
+        "imagen": "img/Satelite.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Ciencia",
+        "pregunta": "¿Qué enfermedad tropical es endémica de Venezuela y se transmite por la picadura de un insecto conocido como 'chipo' o 'vinchuca'?",
+        "respuesta": "La enfermedad de Chagas",
+        "incorrecta1": "La fiebre amarilla",
+        "incorrecta2": " La leishmaniasis",
+        "incorrecta3": "La malaria",
+        "imagen": "img/Chagas.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Ciencia",
+        "pregunta": " ¿Qué científica venezolana fue la primera en recibir el Premio L'Oréal-UNESCO para Mujeres en Ciencia en 2015 por sus investigaciones sobre la biodiversidad y el cambio climático?",
+        "respuesta": "María Eugenia Díaz",
+        "incorrecta1": "Yajaira Freites",
+        "incorrecta2": "Gioconda Cunto de San Blas",
+        "incorrecta3": "María Teresa Ruiz",
+        "imagen": "img/DeConveniencia-Maria-Eugenia-Grillet2.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Ciencia",
+        "pregunta": "¿Qué recurso natural es el más abundante en Venezuela y representa el 95% de sus exportaciones y el 25% de su producto interno bruto?",
+        "respuesta": "El petróleo",
+        "incorrecta1": "El oro",
+        "incorrecta2": "El gas natural",
+        "incorrecta3": "El hierro",
+        "imagen": "img/petroleo.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Ciencia",
+        "pregunta": "¿Qué institución científica venezolana se fundó en 1959 con el objetivo de promover y coordinar la investigación científica y tecnológica en el país?",
+        "respuesta": "Instituto Venezolano de Investigaciones Científicas (IVIC)",
+        "incorrecta1": "Fundación Venezolana para la Ciencia (FUNDACITE)",
+        "incorrecta2": " Centro de Investigaciones de Astronomía (CIDA",
+        "incorrecta3": "Instituto de Estudios Avanzados (IDEA)",
+        "imagen": "img/Ivic.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Ciencia",
+        "pregunta": "¿Qué científico venezolano fue el primero en recibir el Premio Nobel de Medicina en 1988 por sus estudios sobre la enfermedad de Chagas?",
+        "respuesta": "Baruj Benacerraf",
+        "incorrecta1": "Humberto Fernández Morán",
+        "incorrecta2": "Marcel Roche",
+        "incorrecta3": "Jacinto Convit",
+        "imagen": "img/OIP.jpg",
+        "objectFit": "cover"
+    }
+    
+]

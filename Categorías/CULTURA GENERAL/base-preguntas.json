@@ -1,0 +1,106 @@
+[
+    {
+        "categoria": "Cultura General de Venezuela",
+        "pregunta": "¿ Cual es la capital de Nueva Esparta?",
+        "respuesta": "La Asuncion",
+        "incorrecta1": "Margarita",
+        "incorrecta2": "Cojedes",
+        "incorrecta3": "San Juan de los Morros",
+       "imagen": "./aassets/IMG/1.jpg",
+        "objectFit": "cover"
+    },
+     
+    {
+        "categoria": "Cultura General de Venezuela",
+        "pregunta": "¿ Que paises conformaron la Gran Colombia ?",
+        "respuesta": "Colombia, Ecuador, Panama y Venezuela",
+        "incorrecta1": "Venezuela, Brasil y Colombia",
+        "incorrecta2": "Ecuador  y Colombia",
+        "incorrecta3": "Venezuela, Ecuador, Colombia y Peru",
+        "imagen": "./aassets/IMG/2.jpg",
+        "objectFit": "cover"
+    },
+    
+    {
+        "categoria": "Cultura General de Venezuela",
+        "pregunta": "¿ Cual es la altitud del Salto del Angel?",
+        "respuesta": "979 m",
+        "incorrecta1": "  975 m ",
+        "incorrecta2": " 3,844 m ",
+        "incorrecta3": "798 m",
+        "imagen": "./aassets/IMG/3.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Cultura General de Venezuela",
+        "pregunta": "¿ Quien fue el primer presidente de Venezuela ?",
+        "respuesta": " Cristobal Mendoza ",
+        "incorrecta1": " Francisco Miranda ",
+        "incorrecta2": "Simon Bolivar ",
+        "incorrecta3": "Jose Antonio Paez ",
+        "imagen": "./aassets/IMG/4.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Cultura General de Venezuela",
+        "pregunta": " ¿Maracaibo es una ciudad del estado...?",
+        "respuesta": "  Zulia  ",
+        "incorrecta1": "  Bolivar   ",
+        "incorrecta2": "Monagas",
+        "incorrecta3": "Falcon",
+        "imagen": "./aassets/IMG/4.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Cultura General de Venezuela",
+        "pregunta": "¿ Donde queda la Famosa cueva del Guacharo ?",
+        "respuesta": " Monagas ",
+        "incorrecta1": "  Caracas   ",
+        "incorrecta2": " Merida ",
+        "incorrecta3": " Bolivar ",
+        "imagen": "./aassets/IMG/6.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Cultura General de Venezuela",
+        "pregunta": "¿ En que año descubrieron el petroleo en Venezuela?",
+        "respuesta": " 1987 ",
+        "incorrecta1": "  1927 ",
+        "incorrecta2": " 1918",
+        "incorrecta3": " 1919 ",
+        "imagen": "./aassets/IMG/7.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria":"Cultura General de Venezuela",
+        "pregunta": "¿En que parte de Venezuela esta el lago mas grande de sudamerica ?",
+        "respuesta": " Zulia ",
+        "incorrecta1": "  Lara ",
+        "incorrecta2": " Bolivar ",
+        "incorrecta3": " Apure ",
+        "imagen": "./aassets/IMG/8.jpg",
+        "objectFit": "cover"
+    },
+    
+    {
+        "categoria": "Cultura General de Venezuela",
+        "pregunta": "¿  Cuál presidente venezolano sobrevivió a un atentado ordenado por el Generalísimo Rafael Leonidas Trujillo ?",
+        "respuesta": " Romulo Betancourt ",
+        "incorrecta1": "  Hugo Chavez ",
+        "incorrecta2": " Marcos Perez Jimenez ",
+        "incorrecta3": " Cipriano Castro",
+        "imagen": "./aassets/IMG/9.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Cultura General de Venezuela",
+        "pregunta": "¿ Cuantas estrellas tiene la Bandera de Venezuela en el presente año 2024?",
+        "respuesta": " 8 ",
+        "incorrecta1": "  7  ",
+        "incorrecta2": " 9 ",
+        "incorrecta3":"5",
+        "imagen": "./aassets/IMG/10.jpg",
+        "objectFit": "cover"
+    }
+]

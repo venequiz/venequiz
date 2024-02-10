@@ -1,0 +1,106 @@
+[
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Quién fue el líder independentista que lideró la lucha por la independencia de Venezuela?",
+        "respuesta": "Simon Bolivar",
+        "incorrecta1": " Francisco Miranda ",
+        "incorrecta2": "Hugo chavez frias",
+        "incorrecta3": "Cristobal Mendoza",
+       "imagen":"./aassets/IMG/1.jpg",
+        "objectFit": "cover"
+    },
+     
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Qué evento histórico marcó el inicio de la lucha por la independencia de Venezuela?",
+        "respuesta": "19 de Abril de 1810",
+        "incorrecta1": "12 de Octubre 1972",
+        "incorrecta2": "15 de Enero 1815",
+        "incorrecta3": "19 de Marzo 1999",
+        "imagen": "./aassets/IMG/2.jpg",
+        "objectFit": "cover"
+    },
+    
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Cuál fue la batalla más importante durante la Guerra de Independencia de Venezuela?",
+        "respuesta": "Batalla de Carabobo",
+        "incorrecta1": " Batalla de la Independencia ",
+        "incorrecta2": " Batalla Naval",
+        "incorrecta3": "Primera Batalla de Venezuela",
+        "imagen": "./aassets/IMG/3.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Qué presidente venezolano implementó importantes reformas sociales durante su mandato conocido como La Revolución de Octubre?",
+        "respuesta": " Romulo Betancourt ",
+        "incorrecta1": " Francisco Miranda ",
+        "incorrecta2": "Simon Bolivar ",
+        "incorrecta3": "Jose Antonio Paez ",
+        "imagen": "./aassets/IMG/4.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Cuál fue el evento que desencadenó el inicio de la dictadura militar en Venezuela en 1958?",
+        "respuesta": "El Carupanazo ",
+        "incorrecta1": " El Caracazo ",
+        "incorrecta2": "Guarimbas",
+        "incorrecta3": "...",
+        "imagen": "./aassets/IMG/4.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Quién fue el líder del movimiento independentista que organizó la expedición militar desde Haití hacia Venezuela en 1816?",
+        "respuesta": " Santiago Mariño ",
+        "incorrecta1": "  Romulo Gallegos   ",
+        "incorrecta2": " Marcos Perez Jimenez ",
+        "incorrecta3": " Simon Bolivar ",
+        "imagen": "./aassets/IMG/6.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿ En que año descubrieron el petroleo en Venezuela?",
+        "respuesta": " 1987 ",
+        "incorrecta1": "  1927 ",
+        "incorrecta2": " 1918",
+        "incorrecta3": " 1919 ",
+        "imagen": "./aassets/IMG/7.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿En que año nacio Simon Bolivar?",
+        "respuesta": "  24 de julio de 1783 ",
+        "incorrecta1": "   24 de julio de 1713 ",
+        "incorrecta2": " 12 de junio 1738",
+        "incorrecta3": " 12 de marzo 1801 ",
+        "imagen": "./aassets/IMG/8.jpg",
+        "objectFit": "cover"
+    },
+    
+    {
+        "categoria": "Historia",
+        "pregunta": "¿En que año fallecio Simon Bolivar?",
+        "respuesta": "17 de diciembre de 1830 ",
+        "incorrecta1": " 17 de diciembre de 1815 ",
+        "incorrecta2": " 20 de marzo 1830 ",
+        "incorrecta3": " 2 de abril 1830",
+        "imagen": "./aassets/IMG/9.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Historia",
+        "pregunta": "¿A que edad Simon Bolivar incio su formacion militar?",
+        "respuesta": " 13 ",
+        "incorrecta1": " 14  ",
+        "incorrecta2": " 17",
+        "incorrecta3":"18",
+        "imagen": "./aassets/IMG/10.jpg",
+        "objectFit": "cover"
+    }
+]

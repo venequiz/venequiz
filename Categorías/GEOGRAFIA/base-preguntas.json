@@ -1,0 +1,110 @@
+[
+    {
+        "categoria": "Geografia",
+        "pregunta": "¿ Cual es el estado mas grande de venezuela  ?",
+        "respuesta": "Bolivar",
+        "incorrecta1": "Tachira",
+        "incorrecta2": "Amazonas",
+        "incorrecta3": "Barquisimeto",
+       "imagen": "./aassets/IMG/1.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Geografia",
+        "pregunta": "¿ Como se divide internamente los estados de Venezuela ?",
+        "respuesta": "Municipios",
+        "incorrecta1": "Territoris Federales",
+        "incorrecta2": "Zonas",
+        "incorrecta3": "Provincias",
+        "imagen": "./aassets/IMG/2.jpg",
+        "objectFit": "cover"
+    },
+    
+    {
+        "categoria": "Geografia",
+        "pregunta": "¿ En cuantos estados esta dividido Venezuela?",
+        "respuesta": " 23 y el Distrito Capital ",
+        "incorrecta1": " 22 y el Distrito Capital    ",
+        "incorrecta2": "23",
+        "incorrecta3": "26",
+        "imagen": "./aassets/IMG/3.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Geografia",
+        "pregunta": "¿ Que limita al oeste de Venezuela ?",
+        "respuesta": " Colombia  ",
+        "incorrecta1": " Brasil ",
+        "incorrecta2": "Mar Caribe y Colombia ",
+        "incorrecta3": "Guayana ",
+        "imagen": "./aassets/IMG/4.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Geografia",
+        "pregunta": "¿ Que limita al Sur de Venezuela ?",
+        "respuesta": "  Brasil       ",
+        "incorrecta1": "  Colombia   ",
+        "incorrecta2": "Mar Caribe y Colombia ",
+        "incorrecta3": "Guayana ",
+        "imagen": "./aassets/IMG/4.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Geografia",
+        "pregunta": "¿ Cual es el estado fronterizo Ubicado al noroeste de Venezula ?",
+        "respuesta": " Zulia ",
+        "incorrecta1": "  Tachira   ",
+        "incorrecta2": " Merida ",
+        "incorrecta3": " Bolivar ",
+        "imagen": "./aassets/IMG/6.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Geografia",
+        "pregunta": "¿ Cual es la capital de Venezuela?",
+        "respuesta": " Caracas ",
+        "incorrecta1": "  Maracaibo ",
+        "incorrecta2": " Merida",
+        "incorrecta3": " Barquisimeto ",
+        "imagen": "./aassets/IMG/7.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Geografia",
+        "pregunta": "¿ Maracaibo es una ciudad del estado ?",
+        "respuesta": " Zulia ",
+        "incorrecta1": "  Lara ",
+        "incorrecta2": " Bolivar ",
+        "incorrecta3": " Apure ",
+        "imagen": "./aassets/IMG/8.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Geografia",
+        "pregunta": "¿ Con cuantos paise limita venezuela  ?",
+        "respuesta": " 3 ",
+        "incorrecta1": "  4 ",
+        "incorrecta2": " 5 ",
+        "incorrecta3": " 2 ",
+        "imagen": "./aassets/IMG/9.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Geografia",
+        "pregunta": "¿ Cuantos minicipios conforman  el estado Tachira  ?",
+        "respuesta": " 29 ",
+        "incorrecta1": "  25  ",
+        "incorrecta2": " 30 ",
+        "incorrecta3": " 28 ",
+        "imagen": "./aassets/IMG/10.jpg",
+        "objectFit": "cover"
+    }
+
+
+
+
+
+  
+]
