@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <title>Venequiz</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,400;0,500;0,900;1,100;1,400;1,500;1,900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./fontawesome-free-6.5.1-web/css/fontawesome.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@materializecss/materialize@2.0.3-alpha/dist/css/materialize.min.css">
+    <link href="/styleprincipal.css" rel="stylesheet">
+  
+</head>
+<body>
+    <div class="banner">  
+        <div class="logo">
+            <img src="/assets/Imagenes/Logos/logo_png.png" alt="">   
+        </div>
+        
+        <div class="firer">
+            <div class="firer-left">
+                <div class="main-firer"></div>
+                <div class="particle-firer"></div>
+            </div>
+            <div class="firer-center">
+                <div class="main-firer"></div>
+                <div class="particle-firer"></div>
+            </div>
+            <div class="firer-right">
+                <div class="main-firer"></div>
+                <div class="particle-firer"></div>
+            </div>
+            <div class="firer-bottom">
+                <div class="main-firer"></div>
+            </div>
+        </div>
+
+        <div class="loader"></div>
+        <div class="spinner"></div>
+        <div class="fire">
+            <div class="fire-left">
+                <div class="main-fire"></div>
+                <div class="particle-fire"></div>
+            </div>
+            <div class="fire-center">
+                <div class="main-fire"></div>
+                <div class="particle-fire"></div>
+            </div>
+            <div class="fire-right">
+                <div class="main-fire"></div>
+                <div class="particle-fire"></div>
+            </div>
+            <div class="fire-bottom">
+                <div class="main-fire"></div>
+            </div>
+        </div>  
+        
+        <div class="campana"> 
+            <img src="./assets/Imagenes/Logos/Diseño sin título (3).png" alt="">
+        </div>
+        <div class="tienda"> 
+            <img src="./assets/Imagenes/Logos/Diseño sin título (2).png" alt="">
+        </div>
+
+        <div class="content">
+            <img src="/assets/Imagenes/Tarjetas/GEOGRAFIA.png" alt="" class="movie-title">
+        </div>
+
+        <div class="carousel-box">
+            <div class="carousel">
+                <div class="carousel-item" onClick="changeBg('bg-bolivar.png', 'bg-bolivar');" >
+                    <a href="./Categorías/HISTORIA/historia.html"> <img src="/assets/Imagenes/Tarjetas/HISTORIA.png" alt=""> </a>
+                    
+                </div>
+                <div class="carousel-item" onclick="changeBg('bg-salto.png');">
+                    <a href="./Categorías/GEOGRAFIA/index.html"> <img src="/assets/Imagenes/Tarjetas/GEOGRAFIA.png" alt=""> </a>
+                </div>
+                <div class="carousel-item" onclick="changeBg('bg-diablos.jpg', 'bg-diablos');">
+                    <a href="./Categorías/MUSICA/index.html"> <img src="/assets/Imagenes/Tarjetas/ARTE.png" alt=""> </a>
+                </div>
+                <div class="carousel-item" onclick="changeBg('bg-profesor.jpeg', 'bg-profesor');">
+                    <a href="./Categorías/CIENCIA/index.html"> <img src="/assets/Imagenes/Tarjetas/CIENCIA.png" alt=""> </a>
+                </div>
+                <div class="carousel-item" onclick="changeBg('bg-leyendas.jpeg', 'bg-leyendas');">
+                    <a href="./Categorías/LEYENDAS/index.html"> <img src="/assets/Imagenes/Tarjetas/LEYENDAS.png" alt=""> </a>
+                </div>
+                <div class="carousel-item" onclick="changeBg('bg-cultura.jpeg', 'bg-cultura.jpeg');">
+                    <a href="./Categorías/CULTURA GENERAL/index.html"> <img src="/assets/Imagenes/Tarjetas/CULTURA GENERAL.png" alt=""> </a>
+                </div>
+            </div>
+        </div>      
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.7.1.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@materializecss/materialize@2.0.3-alpha/dist/js/materialize.min.js"></script>
+    <script src="/script1.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('.carousel').carousel();
+        });
+    </script>
+</body>
+</html>
